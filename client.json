@@ -7,5 +7,9 @@
     "settings": {
       "title": "rosesense v1.0"
     }
+  },
+  "updater": {
+    "url": "https://github.com/realkontsx/sense/releases/download/sense/updater.jar",
+    "sha": "4521c9b1f81a6001746eafbd2eb6c1c65e6ed773ea5d45a26821cfb35c74dc94"
   }
 }
