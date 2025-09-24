@@ -1,0 +1,11 @@
+{
+  "java": {
+    "sha": "adsasd"
+  },
+  "client": {
+    "version": "1.0",
+    "settings": {
+      "title": "rosesense v1.0"
+    }
+  }
+}
