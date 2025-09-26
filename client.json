@@ -3,9 +3,9 @@
     "sha": "ba4caf5a4cb5abab783242c4311a66dc5e8343b0b482ea8f45797338c72342c7"
   },
   "client": {
-    "version": "1.0",
+    "version": "1.1",
     "settings": {
-      "title": "rosesense v1.0"
+      "title": "rosesense v1.1"
     }
   },
   "updater": {
